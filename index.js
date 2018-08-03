@@ -1,6 +1,6 @@
 var name = "Susan"
 var height = "70"
- console.log(index.name)
+
  
 
 // Don't worry about this
